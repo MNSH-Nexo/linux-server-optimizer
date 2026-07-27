@@ -2,7 +2,7 @@
 # =============================================================================
 #  server-setup.sh — Linux Server Auto-Configuration Script
 #  Version : 1.2.0
-#  Author  : HappySeeds AI
+#  Author  : MNSH
 #  Purpose : راه‌اندازی خودکار سرور لینوکس برای محیط‌های VPN/Proxy
 #
 #  Phases:
